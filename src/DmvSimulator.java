@@ -17,7 +17,7 @@ public class DmvSimulator {
 			
 			count = rand_int1 + 1;
 			
-			while (count <= 100) {
+			while (count <= 200) {
 				System.out.println("Currently serving:  " + count);
 				count++;
 			
