@@ -8,7 +8,7 @@ public class DmvSimulator {
 			int count;
 			
 			
-			int rand_int1 = rand.nextInt(100); 
+			int rand_int1 = rand.nextInt(200); 
 			
 			
 			System.out.println("Welcome to the DMV!");
