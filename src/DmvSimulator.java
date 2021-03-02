@@ -30,9 +30,9 @@ public class DmvSimulator {
 			}
 	
 			System.out.println("Currently serving: " + rand_int1);
-			System.out.println("The documents you brought are not sufficient. Next time, make sure to read what you need to bring before wasting everyone's time.");
 			
-			System.exit(0);
+		
+			
 	}
 			
 
