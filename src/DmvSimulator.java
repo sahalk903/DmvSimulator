@@ -31,6 +31,9 @@ public class DmvSimulator {
 	
 			System.out.println("Currently serving: " + rand_int1);
 			
+			
+			System.out.println("You do not have the required documents. Next time, please verify what documents you need before wasting everyone's time.");
+			
 		
 			
 	}
