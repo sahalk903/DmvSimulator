@@ -34,6 +34,8 @@ public class DmvSimulator {
 			
 			System.out.println("You do not have the required documents. Next time, please verify what documents you need before wasting everyone's time.");
 			
+			System.out.println("Evil laugh mwahahahhahahhh");
+			
 		
 			
 	}
