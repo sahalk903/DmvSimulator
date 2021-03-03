@@ -30,6 +30,16 @@ public class DmvSimulator {
 			}
 	
 			System.out.println("Currently serving: " + rand_int1);
+<<<<<<< HEAD
+			int probability = rand.nextInt();
+			if (rand.nextInt() == 1) {
+				System.out.println("You have all the required paperwork, you are all set.");
+			} else {
+				System.out.println("The documents you brought are not sufficient. Next time, make sure to read what you need to bring before wasting everyone's time.");
+			}
+			
+		
+=======
 			
 			
 			System.out.println("You do not have the required documents. Next time, please verify what documents you need before wasting everyone's time.");
@@ -38,6 +48,7 @@ public class DmvSimulator {
 			
 		
 			
+>>>>>>> 83dfb3822d22e4cb901a90000bb984aa38d902c7
 	}
 			
 
